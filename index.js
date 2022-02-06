@@ -28,7 +28,7 @@ function init() {
     inquirer.prompt(questions)
     .then(function(userInput){
         console.log(userInput)
-    })
+    }).then(writeToFile('README.md',"boooo!"))
 
     }
 
