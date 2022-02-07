@@ -1,9 +1,9 @@
-# asdfasdfas 
+#  
 
-  https://img.shields.io/badge/license-MIT-green
+  [![License](https://img.shields.io/badge/license-MIT-green)] (https://shields.io/)
 
   ## Description 
-  asdfasdfasdf
+  
   
   
   
@@ -17,17 +17,17 @@
   
   
   ## Installation
-  asdfasdf
+  
   
   
   
   ## Usage 
-  asdfasdfa
+  
   
   
   
   ## Credits
-  asdfasdfas
+  
   
   
   
@@ -37,5 +37,5 @@
   
 
   ## Creator Info
-  -github:(www.github.com/sdfasdfasdf) 
-  -email: asdfasdfas
+  -github:(www.github.com/) 
+  -email: 
