@@ -15,7 +15,7 @@ function renderLicenseLink(license) {
   if(!license){
     return "";
   }else{
-    return 'https://shields.io/'
+    return '(https://shields.io/)'
   }
 }
 
@@ -25,7 +25,7 @@ function renderLicenseSection(license) {
   if(!license){
     return "";
   }else{ 
-    return `[![License](${renderLicenseBadge(license)})] (${renderLicenseLink(license)})`
+    return `[![License](${renderLicenseBadge(license)})] ${renderLicenseLink(license)}`
   }
 }
 
