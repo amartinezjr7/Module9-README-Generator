@@ -32,15 +32,20 @@ const questions = [
             message:'Who helped you with this project?'
         },
         {
-            type:'input',
-            name:'test',
-            message:'How do you go about testing this project?'
-        },
-        {
             type:'checkbox',
             name:'license',
             message:'Which license do you want to use?(check all that apply)',
-            choices:['asdfasd', 'asdfasdf','asdsss']
+            choices:['MIT', 'Apache','ISC','NONE']
+        },
+        {
+            type:'link',
+            name:'github',
+            message:'Please provide your github handle:'
+        },
+        {
+            type:'input',
+            name:'email',
+            message:'Please provide your email:'
         }
     ];
 

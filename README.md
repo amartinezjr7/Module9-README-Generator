@@ -1,6 +1,9 @@
-# Portfolio Generator 
+# asdfasdf 
+
+  https://img.shields.io/apm/l/${license}
 
   ## Description 
+  asdfasdfasd
   
   
   
@@ -14,25 +17,25 @@
   
   
   ## Installation
-  install npm then install inquirer
+  asdfasdfa
   
   
   
   ## Usage 
-  just follow the prompts, the more detailed the better
+  asdfasdfas
   
   
   
   ## Credits
-  this was done alone
-
-
-  ##Test Perameters
-  once installation is complete, just open up your terminal and type node index
+  asdfasdfas
   
   
   
   
   ## License
-  asdfasd,asdfasdf,asdsss
+  MIT
   
+
+  ## Creator Info
+  -github:(www.github.com/asdfasdfasdf) 
+  -email: asdfasdfasdfd
