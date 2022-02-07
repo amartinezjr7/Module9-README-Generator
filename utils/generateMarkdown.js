@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
   if (license[3]){
     return "";
   }else{
-   return 'https://img.shields.io/apm/l/${license}'
+   return `https://img.shields.io/badge/license-${license}-green`
   }
 }
 
@@ -25,7 +25,7 @@ function renderLicenseSection(license) {
   if(license[3]){
     return "";
   }else{
-    `[License]${renderLicenseBadge()} ${renderLicenseLink()}`
+    `![License]${renderLicenseBadge()} ${renderLicenseLink()}`
   }
 }
 
