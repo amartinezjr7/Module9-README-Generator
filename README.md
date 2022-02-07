@@ -47,7 +47,7 @@ THEN I am taken to the corresponding section of the README
 
   ## demo
 
-  ![Demo](/README Demo.gif)
+  ![demo](README-Demo.gif)
   !(https://watch.screencastify.com/v/GxOOpL17bAtLegRst58B)
 
   ## Challanges
