@@ -48,7 +48,7 @@ THEN I am taken to the corresponding section of the README
   ## demo
 
   ![Demo](/README Demo.gif)
-  ![Link](https://watch.screencastify.com/v/GxOOpL17bAtLegRst58B)
+  !(https://watch.screencastify.com/v/GxOOpL17bAtLegRst58B)
 
   ## Challanges
   This, for the most, was a pretty stright forward challange. The only issue that i got a little stuck in was embedding the license. Everything else was covered in the class material
