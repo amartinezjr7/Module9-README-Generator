@@ -34,7 +34,7 @@ const questions = [
         {
             type:'checkbox',
             name:'license',
-            message:'Which license do you want to use?(check all that apply)',
+            message:'Which license do you want to use?(please choose one)',
             choices:['MIT', 'Apache','ISC','NONE']
         },
         {
@@ -58,12 +58,11 @@ function writeToFile(fileName, data) {
 })
 }
 
-// TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
     .then(function(userInput){
         console.log(userInput)
-    writeToFile('README.md',generateMarkdown(userInput))
+    writeToFile('README-Sample.md',generateMarkdown(userInput))
     })
 }
 
