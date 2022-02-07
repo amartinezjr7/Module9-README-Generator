@@ -25,7 +25,7 @@ function renderLicenseSection(license) {
   if(license[3]){
     return "";
   }else{
-    `![License]${renderLicenseBadge()} ${renderLicenseLink()}`
+    `[![License]${renderLicenseBadge()}] (${renderLicenseLink()})`
   }
 }
 
@@ -39,7 +39,7 @@ function generateMarkdown(data) {
   
   
   
-  ## Table of Contents (Optional)
+  ## Table of Contents
   
   * [Installation](#installation)
   * [Usage](#usage)
